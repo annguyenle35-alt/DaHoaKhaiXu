@@ -1,6 +1,6 @@
 {
   "name": "Dã Hoa Khai Xứ - Trung Tâm Giáo Dục Về Môi Trường",
-  "description": "Dự án của nhóm Dã Hoa Khai Xứ",
+  "description": "Dự án giáo dục môi trường của nhóm bạn trẻ đến từ FPT",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

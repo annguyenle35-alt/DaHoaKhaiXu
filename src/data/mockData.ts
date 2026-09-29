@@ -4,6 +4,7 @@ export const HERO_IMAGE = '/src/assets/images/hero_wildflower_restoration_179065
 export const NURSERY_IMAGE = '/src/assets/images/forest_nursery_community_1790658699538.jpg';
 export const RIVER_IMAGE = '/src/assets/images/river_ecological_protection_1790658714329.jpg';
 export const EDUCATION_IMAGE = '/src/assets/images/community_field_education_1790658726865.jpg';
+export const RECYCLING_WORKSHOP_IMAGE = '/src/assets/images/workshop_recycling_craft_1790692551473.jpg';
 
 export const STRATEGIC_DIRECTIONS = [
   {
